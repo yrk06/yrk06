@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello There 👋
+
+I'm a game and software developer. Here are some cool facts about my github:
+
+
+<div>
+<img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yrk06&hide=HTML,GDScript,GAP&theme=ocean_dark&bg_color=0a0c10&border_color=000000&include_all_commits=true&count_private=true&layout=compact">
+<img height="200rem" src="https://github-readme-stats.vercel.app/api?username=yrk06&theme=ocean_dark&show_icons=true&bg_color=0a0c10&border_color=000000&include_all_commits=true&count_private=true">
+</div>
+
+You can check my full portfolio [here](https://yrk06.com.br/)
 
 <!--
 **yrk06/yrk06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
